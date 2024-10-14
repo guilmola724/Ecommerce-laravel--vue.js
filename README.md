@@ -4,22 +4,7 @@ E-commerce application built with Laravel, Vue.js, Tailwind.css and Alpine.js. <
 > If you want to see every single step how this E-commerce application is build and learn how to build your own Full Stack applications, check my website [thecodeholic.com](https://thecodeholic.com)
 
 ## Demo
-Admin Panel: https://admin.lcommerce.net
-```
-Email: admin@example.com
-Password: admin123
-```
 
-Website: https://lcommerce.net
-
-```
-Email: user1@example.com
-Password: useruser1
-
-
-Email: user2@example.com
-Password: useruser2
-```
 
 ## Installation 
 Make sure you have environment setup properly. You will need MySQL, PHP8.1, Node.js and composer.
@@ -43,7 +28,5 @@ Make sure you have environment setup properly. You will need MySQL, PHP8.1, Node
 4. Make sure `VITE_API_BASE_URL` key in `backend/.env` is set to your Laravel API host (Default: http://localhost:8000)
 5. Run `npm run dev`
 6. Open Vue.js Admin Panel in browser and login with
-    ```
-    admin@example.com
-    admin123
+
     ```
